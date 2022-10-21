@@ -8,4 +8,4 @@ Os desafios seguintes é uma exercitar os conhecimentos adquiridos. Assim, vamos
 ### [Desafio 02](https://github.com/EloizioHMD/SQL_awari/blob/main/Desafios_SQL2.sql)<p>
 ### [Desafio 03](https://github.com/EloizioHMD/SQL_awari/blob/main/Desafios_SQL3.sql)<p>
 ### [Desafio 04](https://github.com/EloizioHMD/SQL_awari/blob/main/Desafios_SQL4.sql)<p>
-### ...
+### [Desafio 05](https://github.com/EloizioHMD/SQL_awari./blob/main/Desafios_SQL5.sql)<p>
